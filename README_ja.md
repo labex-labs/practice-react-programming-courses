@@ -12,9 +12,9 @@ React はユーザーインターフェースを構築するための有名な�
 
 |   インデックス | 名前                                                                          | 難易度   | Repo                                                               | 練習                                                                   |
 |----------------|-------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|------------------------------------------------------------------------|
-|              1 | [React の始め方](https://labex.io/ja/courses/quick-start-with-react)          | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-react)    |
-|              2 | [React 実践ラボ](https://labex.io/ja/courses/react-practice-labs)             | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 ラボを開始](https://labex.io/ja/courses/react-practice-labs)       |
-|              3 | [React 実践チャレンジ](https://labex.io/ja/courses/react-practice-challenges) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/react-practice-challenges) |
+|              1 | [React の始め方](https://labex.io/ja/courses/quick-start-with-react)          | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-react)    |
+|              2 | [React 実践ラボ](https://labex.io/ja/courses/react-practice-labs)             | 初級     | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 ラボを開始](https://labex.io/ja/courses/react-practice-labs)       |
+|              3 | [React 実践チャレンジ](https://labex.io/ja/courses/react-practice-challenges) | 初級     | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/react-practice-challenges) |
 
 ## その他
 
