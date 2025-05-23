@@ -12,9 +12,9 @@ React 는 사용자 인터페이스 제작에 널리 사용되는 라이브러�
 
 |   인덱스 | 이름                                                                       | 난이도   | Repo                                                               | 연습                                                                  |
 |----------|----------------------------------------------------------------------------|----------|--------------------------------------------------------------------|-----------------------------------------------------------------------|
-|        1 | [React 시작하기](https://labex.io/ko/courses/quick-start-with-react)       | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-react)    |
-|        2 | [React 실습 랩](https://labex.io/ko/courses/react-practice-labs)           | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 실습 시작](https://labex.io/ko/courses/react-practice-labs)       |
-|        3 | [React 실전 챌린지](https://labex.io/ko/courses/react-practice-challenges) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/react-practice-challenges) |
+|        1 | [React 시작하기](https://labex.io/ko/courses/quick-start-with-react)       | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-react)    |
+|        2 | [React 실습 랩](https://labex.io/ko/courses/react-practice-labs)           | 초급     | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 실습 시작](https://labex.io/ko/courses/react-practice-labs)       |
+|        3 | [React 실전 챌린지](https://labex.io/ko/courses/react-practice-challenges) | 초급     | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/react-practice-challenges) |
 
 ## 더 보기
 
