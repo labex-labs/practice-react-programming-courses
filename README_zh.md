@@ -12,9 +12,9 @@ React 是一款知名的用户界面构建库。本技能树为你提供了系�
 
 |   序号 | 名称                                                                    | 难度   | Repo                                                               | 练习                                                                 |
 |--------|-------------------------------------------------------------------------|--------|--------------------------------------------------------------------|----------------------------------------------------------------------|
-|      1 | [React 入门指南](https://labex.io/zh/courses/quick-start-with-react)    | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-react)    |
-|      2 | [React 实践实验室](https://labex.io/zh/courses/react-practice-labs)     | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 开始实验](https://labex.io/zh/courses/react-practice-labs)       |
-|      3 | [React 实战挑战](https://labex.io/zh/courses/react-practice-challenges) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/react-practice-challenges) |
+|      1 | [React 入门指南](https://labex.io/zh/courses/quick-start-with-react)    | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-react)    |
+|      2 | [React 实践实验室](https://labex.io/zh/courses/react-practice-labs)     | 初级   | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 开始实验](https://labex.io/zh/courses/react-practice-labs)       |
+|      3 | [React 实战挑战](https://labex.io/zh/courses/react-practice-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/react-practice-challenges) |
 
 ## 更多
 
