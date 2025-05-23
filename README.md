@@ -12,9 +12,9 @@ React is a well - known library for crafting user interfaces. This Skill Tree of
 
 |   Index | Name                                                                            | Difficulty   | Repo                                                               | Practice                                                           |
 |---------|---------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-|       1 | [Get Started with React](https://labex.io/courses/quick-start-with-react)       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 Start Lab](https://labex.io/courses/quick-start-with-react)    |
-|       2 | [React Practice Labs](https://labex.io/courses/react-practice-labs)             | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 Start Lab](https://labex.io/courses/react-practice-labs)       |
-|       3 | [React Practice Challenges](https://labex.io/courses/react-practice-challenges) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/react-practice-challenges) |
+|       1 | [Get Started with React](https://labex.io/courses/quick-start-with-react)       | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 Start Lab](https://labex.io/courses/quick-start-with-react)    |
+|       2 | [React Practice Labs](https://labex.io/courses/react-practice-labs)             | Beginner     | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 Start Lab](https://labex.io/courses/react-practice-labs)       |
+|       3 | [React Practice Challenges](https://labex.io/courses/react-practice-challenges) | Beginner     | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/react-practice-challenges) |
 
 ## More
 
