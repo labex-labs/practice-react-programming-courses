@@ -12,9 +12,9 @@ React ist eine bekannte Bibliothek zur Erstellung von Benutzeroberflächen. Dies
 
 |   Index | Name                                                                                   | Schwierigkeit   | Repo                                                               | Übung                                                                     |
 |---------|----------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|
-|       1 | [Einstieg in React](https://labex.io/de/courses/quick-start-with-react)                | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-react)    |
-|       2 | [React Übungslabs](https://labex.io/de/courses/react-practice-labs)                    | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 Labor Starten](https://labex.io/de/courses/react-practice-labs)       |
-|       3 | [React Übungsherausforderungen](https://labex.io/de/courses/react-practice-challenges) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/react-practice-challenges) |
+|       1 | [Einstieg in React](https://labex.io/de/courses/quick-start-with-react)                | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-react)    |
+|       2 | [React Übungslabs](https://labex.io/de/courses/react-practice-labs)                    | Anfänger        | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 Labor Starten](https://labex.io/de/courses/react-practice-labs)       |
+|       3 | [React Übungsherausforderungen](https://labex.io/de/courses/react-practice-challenges) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/react-practice-challenges) |
 
 ## Mehr
 
