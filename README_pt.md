@@ -12,9 +12,9 @@ React é uma biblioteca amplamente conhecida para a criação de interfaces de u
 
 |   Índice | Nome                                                                                | Dificuldade   | Repo                                                               | Prática                                                                 |
 |----------|-------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
-|        1 | [Começar com React](https://labex.io/pt/courses/quick-start-with-react)             | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-react)    |
-|        2 | [Laboratórios Práticos de React](https://labex.io/pt/courses/react-practice-labs)   | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 Iniciar Lab](https://labex.io/pt/courses/react-practice-labs)       |
-|        3 | [Desafios Práticos de React](https://labex.io/pt/courses/react-practice-challenges) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/react-practice-challenges) |
+|        1 | [Começar com React](https://labex.io/pt/courses/quick-start-with-react)             | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-react)    |
+|        2 | [Laboratórios Práticos de React](https://labex.io/pt/courses/react-practice-labs)   | Iniciante     | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 Iniciar Lab](https://labex.io/pt/courses/react-practice-labs)       |
+|        3 | [Desafios Práticos de React](https://labex.io/pt/courses/react-practice-challenges) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 Iniciar Lab](https://labex.io/pt/courses/react-practice-challenges) |
 
 ## Mais
 
