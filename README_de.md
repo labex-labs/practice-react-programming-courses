@@ -8,13 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 </div>
 
-React ist eine bekannte Bibliothek zur Erstellung von Benutzeroberflächen. Dieser Skill Tree bietet einen systematischen Ansatz zum Erlernen von React. Er richtet sich an Anfänger im Webentwicklung und bietet einen strukturierten Leitfaden, um Komponenten, Zustandsverwaltung und Hooks zu verstehen. Praktische, nicht-videobasierte Kurse und Programmierübungen in einem interaktiven Frontend-Spielplatz helfen Ihnen, praktische Fähigkeiten im Aufbau moderner, responsiver Webanwendungen mit React zu entwickeln.
+Lernen Sie React, eine beliebte Bibliothek zum Erstellen von Benutzeroberflächen, mit diesem strukturierten Lernpfad, der für Anfänger konzipiert wurde. Diese umfassenden React-Kurse bieten eine Schritt-für-Schritt-Anleitung zur Beherrschung von Komponenten, Zustandsverwaltung und Hooks. Entwickeln Sie praktische Fähigkeiten, indem Sie praktische, nicht-video-basierte Programmierübungen in einem interaktiven Frontend-Playground absolvieren, um moderne, responsive Webanwendungen zu erstellen.
 
-|   Index | Name                                                                                   | Schwierigkeit   | Repo                                                               | Übung                                                                     |
-|---------|----------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|
-|       1 | [Einstieg in React](https://labex.io/de/courses/quick-start-with-react)                | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-react)    |
-|       2 | [React Übungslabs](https://labex.io/de/courses/react-practice-labs)                    | Anfänger        | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 Labor Starten](https://labex.io/de/courses/react-practice-labs)       |
-|       3 | [React Übungsherausforderungen](https://labex.io/de/courses/react-practice-challenges) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/react-practice-challenges) |
+|   Index | Name                                                                  | Schwierigkeit   | Repo                                                         | Übung                                                               |
+|---------|-----------------------------------------------------------------------|-----------------|--------------------------------------------------------------|---------------------------------------------------------------------|
+|       1 | [React für Anfänger](https://labex.io/de/courses/react-for-beginners) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/react-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/react-for-beginners) |
 
 ## Mehr
 
