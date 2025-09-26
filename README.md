@@ -8,13 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 </div>
 
-React is a well - known library for crafting user interfaces. This Skill Tree offers a systematic way to learn React. Tailored for web development novices, it provides a structured guide to grasp components, state management, and hooks. Hands - on, non - video courses and coding exercises in an interactive frontend playground help you develop practical skills in building modern, responsive web applications with React.
+Learn React, a popular library for building user interfaces, with this structured learning path designed for beginners. These comprehensive React courses provide a step-by-step guide to mastering components, state management, and hooks. Develop practical skills by completing hands-on, non-video coding exercises in an interactive frontend playground to build modern, responsive web applications.
 
-|   Index | Name                                                                            | Difficulty   | Repo                                                               | Practice                                                           |
-|---------|---------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-|       1 | [Get Started with React](https://labex.io/courses/quick-start-with-react)       | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 Start Lab](https://labex.io/courses/quick-start-with-react)    |
-|       2 | [React Practice Labs](https://labex.io/courses/react-practice-labs)             | Beginner     | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 Start Lab](https://labex.io/courses/react-practice-labs)       |
-|       3 | [React Practice Challenges](https://labex.io/courses/react-practice-challenges) | Beginner     | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/react-practice-challenges) |
+|   Index | Name                                                                | Difficulty   | Repo                                                         | Practice                                                     |
+|---------|---------------------------------------------------------------------|--------------|--------------------------------------------------------------|--------------------------------------------------------------|
+|       1 | [React for Beginners](https://labex.io/courses/react-for-beginners) | Beginner     | [🔗 Repo](https://github.com/labex-labs/react-for-beginners) | [🚀 Start Lab](https://labex.io/courses/react-for-beginners) |
 
 ## More
 
