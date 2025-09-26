@@ -8,13 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 </div>
 
-React はユーザーインターフェースを構築するための有名なライブラリです。このスキルツリーは、React を体系的に学ぶための方法を提供します。ウェブ開発の初心者向けに設計されており、コンポーネント、状態管理、フックを理解するための構造化されたガイドを提供します。実践的な非動画コースとインタラクティブなフロントエンドプレイグラウンドでのコーディング演習を通じて、React を使用して現代的でレスポンシブなウェブアプリケーションを構築するための実践的なスキルを身につけることができます。
+ユーザーインターフェース構築に人気のライブラリである React を、初心者向けに設計されたこの体系的な学習パスで学びましょう。これらの包括的な React コースは、コンポーネント、状態管理、Hooks を習得するためのステップバイステップガイドを提供します。インタラクティブなフロントエンドプレイグラウンドで、動画なしの実践的なコーディング演習を完了することで、現代的でレスポンシブなウェブアプリケーションを構築するための実践的なスキルを身につけましょう。
 
-|   インデックス | 名前                                                                          | 難易度   | Repo                                                               | 練習                                                                   |
-|----------------|-------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|------------------------------------------------------------------------|
-|              1 | [React の始め方](https://labex.io/ja/courses/quick-start-with-react)          | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-react)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-react)    |
-|              2 | [React 実践ラボ](https://labex.io/ja/courses/react-practice-labs)             | 初級     | [🔗 Repo](https://github.com/labex-labs/react-practice-labs)       | [🚀 ラボを開始](https://labex.io/ja/courses/react-practice-labs)       |
-|              3 | [React 実践チャレンジ](https://labex.io/ja/courses/react-practice-challenges) | 初級     | [🔗 Repo](https://github.com/labex-labs/react-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/react-practice-challenges) |
+|   インデックス | 名前                                                                | 難易度   | Repo                                                         | 練習                                                             |
+|----------------|---------------------------------------------------------------------|----------|--------------------------------------------------------------|------------------------------------------------------------------|
+|              1 | [初心者向け React](https://labex.io/ja/courses/react-for-beginners) | 初級     | [🔗 Repo](https://github.com/labex-labs/react-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/react-for-beginners) |
 
 ## その他
 
